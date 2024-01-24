@@ -1,68 +1,75 @@
-# Astro Starter Kit: Blog
+# Astroeye Project
 
-```sh
-npm create astro@latest -- --template blog
-```
+Astroeye is a powerful tool designed for detecting and analyzing bugs and glitches in space exploration projects. Created by [iamprathaemshmore.cu.ma](https://iamprathaemshmore.cu.ma/) and owned by Ajit More.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## Contact Information
+- **WhatsApp:** +1234567890
+- **Instagram:** [@astroeye_project](https://www.instagram.com/astroeye_project/)
+- **Discord:** Astroeye#1234
+- **Website:** [www.astroeye.com](https://www.astroeye.com)
+- **Email:** [contact@astroeye.com](mailto:contact@astroeye.com)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## Installation
+To install Astroeye, follow these steps:
 
-Features:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/iamprathaemshmore/astroeye.git
+   ```
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+2. **Navigate to the project directory:**
+   ```bash
+   cd astroeye
+   ```
 
-## 🚀 Project Structure
+3. **Install the dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Inside of your Astro project, you'll see the following folders and files:
+## Usage
+To use Astroeye, follow these steps:
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+1. **Run the program:**
+   ```bash
+   python astroeye.py
+   ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+2. **Follow the prompts to input data about your space exploration project.**
+3. **Astroeye will analyze the data and output any bugs or glitches it finds.**
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Features
+- Advanced bug and glitch detection algorithms
+- User-friendly interface
+- Comprehensive output for easy analysis
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+## Contributing
+We welcome contributions to Astroeye! To contribute, follow these steps:
 
-Any static assets, like images, can be placed in the `public/` directory.
+1. **Fork the repository.**
+2. **Create a new branch:**
+   ```bash
+   git checkout -b my-feature-branch
+   ```
 
-## 🧞 Commands
+3. **Make your changes and commit them:**
+   ```bash
+   git commit -m "Add my feature"
+   ```
 
-All commands are run from the root of the project, from a terminal:
+4. **Push the branch to your forked repository:**
+   ```bash
+   git push origin my-feature-branch
+   ```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+5. **Open a pull request.**
 
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+## License
+Astroeye is released under the MIT License. See the [LICENSE](LICENSE) file for details.
